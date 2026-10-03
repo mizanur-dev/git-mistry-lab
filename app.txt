@@ -1,2 +1,3 @@
 Hello Git World, this is my first project
 Dashboard Version: Developed by Mizanur
+Dashboard Version: Configured by Tech Lead
