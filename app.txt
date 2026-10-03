@@ -1,1 +1,2 @@
 Hello Git World, this is my first project
+Dashboard Version: Configured by Tech Lead
